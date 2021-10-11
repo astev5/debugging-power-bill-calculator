@@ -1,8 +1,8 @@
-# debugging-utility-bill-calculator
-This is a debugging exercise based on the 'utility-bill-calculator-revisited' program requirements.
+# debugging-power-bill-calculator
+This is a debugging exercise based on the 'power-bill-calculator-revisited' program requirements.
 
 ## Assignment
-This utilizes the 'utility-bill-calculator-revisited' program with exception handling and validation added. 
+This utilizes the 'power-bill-calculator-revisited' program with exception handling and validation added. 
 
 ## Requirements
 Debug the program by finding all of the errors that are present.
